@@ -1,6 +1,6 @@
 # E-Commerce Flutter Mobile App
 
-A comprehensive Flutter mobile application that mirrors your MEAN stack e-commerce website functionality. This app provides a complete shopping experience with user authentication, product browsing, cart management, order processing, and admin capabilities.
+A comprehensive Flutter mobile application  This app provides a complete shopping experience with user authentication, product browsing, cart management, order processing, and admin capabilities.
 
 ## Features
 
